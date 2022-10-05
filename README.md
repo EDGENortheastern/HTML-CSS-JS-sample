@@ -1,6 +1,6 @@
 # HTML, CSS, JS sample for the Software Engineering course
 
-[Live app}](https://edgenortheastern.github.io/HTML-CSS-JS-sample/) is here.
+[Live app](https://edgenortheastern.github.io/HTML-CSS-JS-sample/) is here.
 
 If you would like to propose changes to this introductory project, please raise an issue.
 

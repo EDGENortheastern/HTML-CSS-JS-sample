@@ -4,9 +4,7 @@ const outputBox = document.getElementById("output-field")
 
 
 inputForm.addEventListener('submit', event => {
-    console.log("khjkjhkjhjk")
+    let name = inputBox.value;
     event.preventDefault();
-    console.log(inputBox.value);
-    outputBox.innerHTML="Hello, "+inputBox.value;
+    outputBox.innerHTML="Hello, "+ name + "!";
 });
-// console.log(inputBox.value)
